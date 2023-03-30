@@ -10,5 +10,6 @@ I'm Ruan Freitas, i'm a front end developer, currently learning HTML, CSS, JavaS
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql-logo" /><br>
  
  <br><br>
- Connect with me:
- <a href="https://www.instagram.com/ruanfreitas20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+ Connect with me: <br>
+ <a href="https://www.instagram.com/ruanfreitas20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <br>
+ <a href="https://www.linkedin.com/in/ruan-freitas-8b70aa136/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
